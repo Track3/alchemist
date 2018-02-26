@@ -1,0 +1,160 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Alchemist\n"
+"POT-Creation-Date: 2018-02-25 19:06+0800\n"
+"PO-Revision-Date: 2018-02-24 20:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:31
+msgid "1 Comment Already"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "%s Comments Already"
+msgstr ""
+
+#: footer.php:26
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:108
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:23
+msgid "Prev: "
+msgstr ""
+
+#: single.php:24
+msgid "Next: "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/content-excerpt.php:16
+msgid ", "
+msgstr ""
+
+#: template-parts/content-excerpt.php:29
+msgid "No Comment"
+msgstr ""
+
+#: template-parts/content-excerpt.php:30 template-parts/content.php:31
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content-excerpt.php:31 template-parts/content.php:31
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-excerpt.php:50 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:26
+msgid "In"
+msgstr ""
+
+#: template-parts/content.php:31
+msgid "Add Comment"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Alchemist"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Alchemist is a content-driven blogging theme for WorPress. There's a list-"
+"style blog page, a single column view of your content, with a toggleable "
+"sidebar."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Track3"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.xxxlbox.com"
+msgstr ""
